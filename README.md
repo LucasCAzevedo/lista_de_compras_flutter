@@ -40,7 +40,7 @@ flutter run
 ```
 lista_compras_simples/
 ├── lib/
-│   └── main.dart               Mencionado explicitamente na 
+│   └── main.dart               Código principal 
 ├── .gitignore                  Gerado por flutter create
 ├── .metadata                   Gerado por flutter create
 ├── analysis_options.yaml       Gerado por flutter create
@@ -48,3 +48,4 @@ lista_compras_simples/
 ├── pubspec.lock                Lock de versões
 └── README.md                   Documentação
 ```
+
